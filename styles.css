@@ -1,2 +1,27 @@
+.container{
+	background-color:#f0f0f0;
+}
+h3{
+	text-align:center;
+	font-variant:small-caps;
+	font-size:50px;
+}
+.moviePic{
+	height:250px;
+	width:250px;
+	opacity:90%;
+	margin-left:210px;
+}
+.movieDescription{
+	background-color:black;
+}
+.movieDetail{
+	color:white;
+	position:start;
+	top:10px;
+	width:px;
+	text-align:center;
+	font-size:20px;
+}
 
 /* Your CSS Code here. */
